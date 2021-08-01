@@ -1,0 +1,3 @@
+[submodule "ng_net_cs/ClientApp"]
+	path = ng_net_cs/ClientApp
+	url = /Users/vpriya/ng_net_cs/ng_net_cs/ClientApp
