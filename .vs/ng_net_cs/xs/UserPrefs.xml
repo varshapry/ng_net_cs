@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{D26BB723-0B14-4909-BB69-65B0C6D4586F}|Default">
+  <MonoDevelop.Ide.ItemProperties.ng__net__cs PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="ng_net_cs/Program.cs">
+    <Files>
+      <File FileName="ng_net_cs/appsettings.json" Line="11" Column="1" />
+      <File FileName="LoggingService/CustomTextFormatter.cs" Line="20" Column="18" />
+      <File FileName="ng_net_cs/Program.cs" Line="38" Column="62" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ng_net_cs" expanded="True">
+            <Node name="LoggingService" expanded="True" />
+            <Node name="ng_net_cs" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
